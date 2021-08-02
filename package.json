@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap5-sass",
+  "version": "1.0.0",
+  "description": "Bootstrap v5 with sass practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "bootstrap-template"
+  ],
+  "author": "Imad uddin",
+  "license": "ISC"
+}
